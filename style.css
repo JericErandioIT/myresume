@@ -1,0 +1,61 @@
+body{
+	background-color: #d5d8dc;
+}
+
+table{
+	width: 700px;
+	height: 800px;
+	margin: auto;
+	font-family: century gothic;
+}
+
+.resume_left hr{
+	border: 1px solid white;
+}
+
+img{
+	border: 1px solid black;
+	border-radius: 50%;
+	width: 200px;
+}
+
+/*left content design*/
+.resume_left{
+	background-color: #7ce8eb;
+	width: 200px;
+	padding: 20px;	
+}
+
+/*padding for education*/
+.tab_edu{
+	padding-left: 10px;
+}
+
+
+
+/*KABILA NAMAN!*/
+/*right content design*/
+.resume_right{
+	background-color: white;
+	width: 500px;
+	padding: 20px;
+}
+
+.resume_right hr{
+	border: 1px solid #7ce8eb;
+}
+
+/*for my upper right profile*/
+.center{
+	text-align: center;
+}
+
+/*objective indentation*/
+.indent{
+	text-indent: 20px;
+}
+
+/*padding for training & seminars attended and character reference*/
+.tab_ref, .tab_seminar{
+	padding-left: 20px;
+}
